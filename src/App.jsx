@@ -36,19 +36,19 @@ function App() {
 
   const documents = {
     service:
-      'https://drive.google.com/file/d/19BClb1rwDxb49Ywbv93pL8uyp1yygBEN/view?usp=sharing',
+      'https://drive.google.com/file/d/10zcUGH7nEC-jcv6dphiPf1JGRZhU4uRv/view?usp=drive_link',
 
     packages:
-      'https://drive.google.com/file/d/1x_pYGTs7jpo-SesPRyytMjXDd5uoA0g5/view?usp=sharing',
+      'https://drive.google.com/file/d/1CF5H3d2mqeHQgk3eWJu9mHJUPSprBJgY/view?usp=drive_link',
 
     privacy:
-      'https://drive.google.com/file/d/1Wa3M6aa0mzRJZCFikFyoHtjnYvx86CKy/view?usp=sharing',
+      'https://drive.google.com/file/d/1KkLyBK6xmzKV3zpVwbx9279iPwqb3LsV/view?usp=drive_link',
 
     process:
-      'https://drive.google.com/file/d/16Spb4Xi-pfAcIEmi_wGFxbK3ZLmdD5B1/view?usp=sharing',
+      'https://drive.google.com/file/d/1RxPHIPi0O0eY6Fb-UzesxpI9nInN54Nt/view?usp=drive_link',
 
     faq:
-      'https://drive.google.com/file/d/1dbcuKxgei_gNAGgol9Bgnae5UJxwn3aR/view?usp=sharing',
+      'https://drive.google.com/file/d/1AVp8_0JxL7c7BtKHfT5btQq8hRoUyUbJ/view?usp=drive_link',
   }
 
   const [menuOpen, setMenuOpen] = useState(false)
